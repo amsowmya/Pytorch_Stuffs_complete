@@ -1,0 +1,11 @@
+ipykernel
+torch
+numpy
+matplotlib
+torchvision
+scikit-learn
+seaborn
+plotly
+opencv-python
+transformers
+dotenv-python
